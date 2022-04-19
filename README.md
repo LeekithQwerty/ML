@@ -1,2 +1,2 @@
 # ML
-inshorts
+Inshorts News Classification DMA project
